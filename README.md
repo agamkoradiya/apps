@@ -1,2 +1,2 @@
-# gitstats.app
-App to show cool widgets related to github
+# Apps
+My app lists
